@@ -35,7 +35,7 @@ Excel Dashboard – [Lead Analysis](https://github.com/FaisalManiyar/Data_Analys
 
 ## Final Conclusion
 The dashboard consolidates critical KPIs into a unified view, delivering actionable insights that empower sales and marketing teams to optimize lead generation and platform usage strategies effectively. This comprehensive summary enables data-driven decision-making, driving improved performance and strategic growth across the organization.
-- Upstox and Groww are top competitor platforms.
+
 
 
 
