@@ -1,7 +1,7 @@
 # Lead Analysis Dashboard – Power BI
 
 ## Project Objective
-This Power BI dashboard provides a comprehensive overview of lead generation and trading platform usage for hcfinvest. It visualizes key metrics across multiple dimensions, enabling actionable insights for sales and marketing teams.
+To provide a comprehensive overview of lead generation and trading platform usage for hcfinvest. To visualizes key metrics across multiple dimensions, enabling actionable insights for sales and marketing teams.
 
 ## Dashboard Components (KPIs)
 
