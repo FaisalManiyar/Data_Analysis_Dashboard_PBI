@@ -29,11 +29,13 @@ This Power BI dashboard provides a comprehensive overview of lead generation and
 - Majority of leads have no conversion status assigned.
 - Most traders operate with capital below ₹10,000.
 
+## Related Project (On Excel)
+
+Excel Dashboard – [Lead Analysis](https://github.com/FaisalManiyar/Data_Analysis_Dashboard_Excel)
+
 ## Final Conclusion
 The dashboard consolidates critical KPIs into a unified view, delivering actionable insights that empower sales and marketing teams to optimize lead generation and platform usage strategies effectively. This comprehensive summary enables data-driven decision-making, driving improved performance and strategic growth across the organization.
 - Upstox and Groww are top competitor platforms.
 
-- 🔗 Related Projects
 
-Excel Dashboard – [Lead Analysis](https://github.com/FaisalManiyar/Data_Analysis_Dashboard_Excel)
 
