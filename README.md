@@ -11,6 +11,7 @@ This Power BI dashboard provides a comprehensive overview of lead generation and
 4. Monthly Trading Capital
 5. Lead Flow Over Time
 6. Competitor Platform Usage
+- Dashboard Interaction <a href="https://github.com/FaisalManiyar/Data_Analysis_Dashboard_PBI/blob/main/Meta_Leads_PBI.png">View Dashboard<a/>
 
 ## Process Workflow
 
