@@ -1,2 +1,3 @@
-# Meta_Leads_Dashboard_PBI
-"Developed a Power BI project integrating multiple dashboards and tables. The pipeline included preprocessing, cleaning, and modeling of datasets, culminating in interactive visualizations and KPI reporting."
+# Lead Analysis Dashboard – Power BI
+
+This Power BI dashboard provides a comprehensive overview of lead generation and trading platform usage for hcfinvest. It visualizes key metrics across multiple dimensions, enabling actionable insights for sales and marketing teams.
