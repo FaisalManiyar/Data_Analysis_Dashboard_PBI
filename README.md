@@ -3,7 +3,7 @@
 ## Project Objective
 This Power BI dashboard provides a comprehensive overview of lead generation and trading platform usage for hcfinvest. It visualizes key metrics across multiple dimensions, enabling actionable insights for sales and marketing teams.
 
-## Dashboard Components
+## Dashboard Components (KPIs)
 
 1. Lead Count Overview
 2. Platform Distribution
@@ -19,11 +19,18 @@ This Power BI dashboard provides a comprehensive overview of lead generation and
 3. Data Modeling: Defined relationships and hierarchies.
 4. Visualization: Built interactive charts and KPIs using Power BI.
 
+## Dasboard
+<img width="1551" height="803" alt="Meta_Leads_PBI" src="https://github.com/user-attachments/assets/20f98e76-c1d5-4031-9a57-b4279e27edda" />
+
+
 ## Key Insights
 
 - Facebook leads dominate the acquisition funnel.
 - Majority of leads have no conversion status assigned.
 - Most traders operate with capital below ₹10,000.
+
+## Final Conclusion
+The dashboard consolidates critical KPIs into a unified view, delivering actionable insights that empower sales and marketing teams to optimize lead generation and platform usage strategies effectively. This comprehensive summary enables data-driven decision-making, driving improved performance and strategic growth across the organization.
 - Upstox and Groww are top competitor platforms.
 
 - 🔗 Related Projects
